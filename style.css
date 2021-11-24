@@ -1,0 +1,40 @@
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.p4 {
+  font-family: papyrus, Copperplate, fantasy;
+}
+.p5 {
+  font-family: "Brush Script MT", cursive;
+}
+
+body {
+  font-family: "Sofia", sans-serif;
+  font-size: 30px;
+}
+p.normal {
+  font-style: normal;
+  font-weight: bold;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}
